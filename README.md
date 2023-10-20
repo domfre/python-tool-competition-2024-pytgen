@@ -1,6 +1,6 @@
 # Python Tool Competition Implementation Using pytgen
 
-Uses the python-tool-competition-2024 to generate tests using the
+Uses the python-tool-competition-2024 to generate tests using
 pytgen.
 
 For more information see
